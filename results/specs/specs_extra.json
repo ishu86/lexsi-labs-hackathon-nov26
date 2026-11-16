@@ -1,0 +1,14 @@
+[
+ {
+  "name": "final__ft_v3__safe_delta_0.8",
+  "method": "safe_delta",
+  "kw": {
+   "projection_strength": 0.8,
+   "param_filter": [
+    "o_proj",
+    "down_proj"
+   ]
+  },
+  "case": "ft_v3"
+ }
+]

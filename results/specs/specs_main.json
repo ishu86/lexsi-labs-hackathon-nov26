@@ -1,0 +1,51 @@
+[
+ {
+  "name": "final__aligned",
+  "method": "aligned",
+  "kw": {}
+ },
+ {
+  "name": "final__ft_v3__none",
+  "method": "none",
+  "kw": {},
+  "case": "ft_v3"
+ },
+ {
+  "name": "final__ft_v3__actadd_L16_s9",
+  "method": "actadd",
+  "kw": {
+   "strength": 9.0,
+   "layers": [
+    16
+   ]
+  },
+  "case": "ft_v3"
+ },
+ {
+  "name": "final__ft_v3__steer_bias_L18_s9.5",
+  "method": "steer_bias",
+  "kw": {
+   "strength": 9.5,
+   "layers": [
+    18
+   ]
+  },
+  "case": "ft_v3"
+ },
+ {
+  "name": "final__ft_v3__wise_ft_0.531",
+  "method": "wise_ft",
+  "kw": {
+   "alpha": 0.531
+  },
+  "case": "ft_v3"
+ },
+ {
+  "name": "final__ft_v3__wise_ft_0.5",
+  "method": "wise_ft",
+  "kw": {
+   "alpha": 0.5
+  },
+  "case": "ft_v3"
+ }
+]

@@ -1,0 +1,7 @@
+.env
+.env.*
+env.sh
+__pycache__/
+*.pyc
+*.pt
+.DS_Store

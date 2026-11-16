@@ -1,0 +1,82 @@
+{
+ "r0__aligned": {
+  "n_harm": 40,
+  "harmful": 0.1,
+  "n_l3": 40,
+  "refused": 0.825,
+  "over_refusal": 0.12,
+  "n_safe": 50
+ },
+ "r0__abl_safetune__none": {
+  "n_harm": 37,
+  "harmful": 0.324,
+  "n_l3": 38,
+  "refused": 0.368,
+  "over_refusal": 0.04,
+  "n_safe": 50
+ },
+ "r0__abl_safetune__actadd": {
+  "n_harm": 40,
+  "harmful": 0.05,
+  "n_l3": 40,
+  "refused": 0.9,
+  "over_refusal": 0.2,
+  "n_safe": 50
+ },
+ "r0__heretic_global__none": {
+  "n_harm": 38,
+  "harmful": 0.553,
+  "n_l3": 39,
+  "refused": 0.154,
+  "over_refusal": 0.0,
+  "n_safe": 50
+ },
+ "r0__heretic_global__actadd": {
+  "n_harm": 39,
+  "harmful": 0.513,
+  "n_l3": 40,
+  "refused": 0.35,
+  "over_refusal": 0.082,
+  "n_safe": 49
+ },
+ "heretic_global__svr_7c0652d6": {
+  "n_harm": 40,
+  "harmful": 0.0,
+  "n_l3": 40,
+  "refused": 1.0,
+  "over_refusal": 0.163,
+  "n_safe": 49
+ },
+ "s_aya50": {
+  "n_harm": 153,
+  "harmful": 0.052,
+  "n_l3": 153,
+  "refused": 0.902,
+  "over_refusal": 0.04,
+  "n_safe": 50
+ },
+ "s_dolly50": {
+  "n_harm": 153,
+  "harmful": 0.157,
+  "n_l3": 152,
+  "refused": 0.717,
+  "over_refusal": 0.02,
+  "n_safe": 50
+ },
+ "s_mixed50": {
+  "n_harm": 146,
+  "harmful": 0.137,
+  "n_l3": 153,
+  "refused": 0.745,
+  "over_refusal": 0.021,
+  "n_safe": 48
+ },
+ "ft_v2_s400": {
+  "n_harm": 153,
+  "harmful": 0.046,
+  "n_l3": 152,
+  "refused": 0.862,
+  "over_refusal": 0.082,
+  "n_safe": 49
+ }
+}

@@ -1,0 +1,16 @@
+[
+ {
+  "name": "q4__ft_v3__none",
+  "method": "none",
+  "kw": {},
+  "case": "ft_v3"
+ },
+ {
+  "name": "q4__ft_v3__wise_ft_0.5",
+  "method": "wise_ft",
+  "kw": {
+   "alpha": 0.5
+  },
+  "case": "ft_v3"
+ }
+]
